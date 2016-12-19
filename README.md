@@ -16,10 +16,10 @@ The questions that this project will raise are:
 ## Specifications
 
 ### Required
-- [x] Includes a list of commonly used methods to rewrite in ES2015.
-- [x] Includes a README that describes each method and provides an example of use. 
-- [x] Package is published with NPM.
-- [x] Includes tests for all methods described.
+- [ ] Includes a list of 12 commonly used methods to rewrite in ES2015.
+- [ ] Includes a README that describes each method and provides an example of use. 
+- [ ] Package is published with NPM.
+- [ ] Includes tests for all methods described.
 - [x] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
 ### Optional
 - [ ] Showcases methods in a simple website app.
