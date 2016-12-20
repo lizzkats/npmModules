@@ -21,10 +21,7 @@ The questions that this project will raise are:
 - [ ] Package is published with NPM.
 - [ ] Includes tests for all methods described.
 - [x] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
-### Optional
-- [ ] Showcases methods in a simple website app.
 
----
 
 <!-- LICENSE -->
 
