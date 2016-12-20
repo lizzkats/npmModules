@@ -1,0 +1,22 @@
+{
+  "name": "lizzkats",
+  "version": "1.1.0",
+  "description": "reimplementing lodash functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizzkats/npmModules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizzkats/npmModules/issues"
+  },
+  "homepage": "https://github.com/lizzkats/npmModules#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
