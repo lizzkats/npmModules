@@ -1,10 +1,10 @@
 {
-  "name": "lizzkats",
+  "name": "Antrovert",
   "version": "1.1.0",
   "description": "reimplementing lodash functions",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,15 @@
   },
   "homepage": "https://github.com/lizzkats/npmModules#readme",
   "dependencies": {
-    "@linclark/pkg": "^1.0.2"
+    "@linclark/pkg": "^1.0.2",
+    "chai": "^3.5.0",
+    "expect": "^1.20.2",
+    "mocha": "^3.2.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-core": "^6.21.0",
+    "babel-preset-es2015": "^6.0.0",
+    "babel-watch": "^2.0.4"
   }
 }
