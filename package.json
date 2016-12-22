@@ -20,6 +20,7 @@
     "@linclark/pkg": "^1.0.2",
     "chai": "^3.5.0",
     "expect": "^1.20.2",
+    "lodash": "^4.17.2",
     "mocha": "^3.2.0"
   },
   "devDependencies": {
