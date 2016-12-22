@@ -1,5 +1,5 @@
 {
-  "name": "Antrovert",
+  "name": "antrovert",
   "version": "1.1.0",
   "description": "reimplementing lodash functions",
   "main": "index.js",
