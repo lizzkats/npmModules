@@ -5,10 +5,10 @@ Iterates over elements of collection and invokes iteratee for each element. The 
 
 ## Examples of forEach uses
 
-## .filter()
+<!-- ## .filter()
 Iterates over elements of collection, returning an array of all elements predicate returns truthy for. The predicate is invoked with three arguments: (value, index|key, collection).
 
-## Examples of filter uses
+## Examples of filter uses -->
 
 
 ## .map()
