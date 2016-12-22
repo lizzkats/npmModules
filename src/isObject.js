@@ -1,13 +1,7 @@
-const isObject = () => {
-
-  if(obj.isObject){
-    return true
-
-  } else {
-
-    return false
+const isObject = (value) => {
+    let type = typeof value;
+    return !!value && (type == 'object' || type == 'function');
   }
 
-}
 
 module.exports = isObject;
